@@ -1,3 +1,3 @@
 #Added test file
-read num4
-read num7
+read num2
+read num10
